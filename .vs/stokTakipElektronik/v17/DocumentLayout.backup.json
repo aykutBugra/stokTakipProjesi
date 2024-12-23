@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunislemleriformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunislemleriformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunaraformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunaraformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\tumlistedenaraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\tumlistedenaraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\tumlistedenaraform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\tumlistedenaraform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\tumlistedenaraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\tumlistedenaraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urunislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunislemleriformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunaraformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunaraformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urunaraformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunaraformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunsilformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunsilformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunsilformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunsilformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urunsilformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunsilformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunsecimformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunsecimformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunguncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunguncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urunguncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunguncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunguncelleformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunguncelleformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urungecmisiformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urungecmisiformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunekleformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunekleformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\kullanicigirisformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\kullanicigirisformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\kullanicigirisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\kullanicigirisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urunsecimformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunsecimformu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urunsecimformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunsecimformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\urungecmisiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urungecmisiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\kullanicigirisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\kullanicigirisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|c:\\users\\aykut\\onedrive\\masa\u00FCst\u00FC\\stoktakipelektronik\\stoktakipelektronik\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urungecmisiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urungecmisiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|C:\\Users\\aykut\\Downloads\\logo33.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{AC80F682-3D55-C8F8-4895-A4A9EDD49434}|C:\\Users\\aykut\\Downloads\\login_22.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stoktakipelektronik\\urunekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19CE2A80-7C0F-49BD-A1C3-498897251C2B}|stokTakipElektronik\\stokTakipElektronik.csproj|solutionrelative:stoktakipelektronik\\urunekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 228,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UrunEkleFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunEkleFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunEkleFormu.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAuwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:35:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\Log.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\Log.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\Log.cs",
+              "RelativeToolTip": "stokTakipElektronik\\Log.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:51:36.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrunEkleFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunEkleFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunEkleFormu.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:35:25.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UrunGuncelleFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunGuncelleFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunGuncelleFormu.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:36:31.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UrunGuncelleFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunGuncelleFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunGuncelleFormu.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:36:37.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KullaniciGirisFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\KullaniciGirisFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\KullaniciGirisFormu.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:57:45.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UrunSilFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunSilFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunSilFormu.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:35:56.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrunSilFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunSilFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunSilFormu.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:35:51.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UrunSecimFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunSecimFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunSecimFormu.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:24:58.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UrunSecimFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunSecimFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunSecimFormu.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:36:47.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrunIslemleriFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunIslemleriFormu.cs*",
+              "RelativeToolTip": "stokTakipElektronik\\UrunIslemleriFormu.cs*",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:08:07.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrunIslemleriFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunIslemleriFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunIslemleriFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunIslemleriFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunIslemleriFormu.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAYwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:08:20.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UrunGecmisiFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunGecmisiFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunGecmisiFormu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:51:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UrunGecmisiFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunGecmisiFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunGecmisiFormu.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:51:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrunAraFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunAraFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunAraFormu.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:44:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UrunAraFormu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunAraFormu.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\UrunAraFormu.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:44:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TumListedenAraForm.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\TumListedenAraForm.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\TumListedenAraForm.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\TumListedenAraForm.cs",
+              "RelativeToolTip": "stokTakipElektronik\\TumListedenAraForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:45:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TumListedenAraForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\TumListedenAraForm.Designer.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\TumListedenAraForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\TumListedenAraForm.Designer.cs",
+              "RelativeToolTip": "stokTakipElektronik\\TumListedenAraForm.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:45:03.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\Program.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\Program.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\Program.cs",
+              "RelativeToolTip": "stokTakipElektronik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:52:47.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KullaniciGirisFormu.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\KullaniciGirisFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.cs",
+              "RelativeToolTip": "stokTakipElektronik\\KullaniciGirisFormu.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:10:29.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\DatabaseHelper.cs",
+              "RelativeToolTip": "stokTakipElektronik\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:52:06.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "login_22.png",
+              "DocumentMoniker": "C:\\Users\\aykut\\Downloads\\login_22.png",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\login_22.png",
+              "ToolTip": "C:\\Users\\aykut\\Downloads\\login_22.png",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\login_22.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-30T14:01:44.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "logo33.png",
+              "DocumentMoniker": "C:\\Users\\aykut\\Downloads\\logo33.png",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\logo33.png",
+              "ToolTip": "C:\\Users\\aykut\\Downloads\\logo33.png",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\logo33.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-30T14:07:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KullaniciGirisFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\KullaniciGirisFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\KullaniciGirisFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:10:20.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UrunSilFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunSilFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunSilFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:35:47.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrunSecimFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunSecimFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunSecimFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:36:29.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrunIslemleriFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunIslemleriFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunIslemleriFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunIslemleriFormu.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "stokTakipElektronik\\UrunIslemleriFormu.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:08:02.288Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrunAraFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunAraFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunAraFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:44:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TumListedenAraForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\TumListedenAraForm.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\TumListedenAraForm.cs",
+              "ToolTip": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\TumListedenAraForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "stokTakipElektronik\\TumListedenAraForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:44:55.765Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UrunGecmisiFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunGecmisiFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunGecmisiFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:50:03.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UrunGuncelleFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunGuncelleFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunGuncelleFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:36:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UrunEkleFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aykut\\OneDrive\\Masa\u00FCst\u00FC\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.cs",
+              "RelativeDocumentMoniker": "stokTakipElektronik\\UrunEkleFormu.cs",
+              "ToolTip": "C:\\Users\\aykut\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\stokTakipElektronik\\stokTakipElektronik\\UrunEkleFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:35:00.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

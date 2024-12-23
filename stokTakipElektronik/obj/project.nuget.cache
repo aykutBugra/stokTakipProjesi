@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYD7L3eDJL8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aykut\\OneDrive\\Masaüstü\\stokTakipElektronik\\stokTakipElektronik\\stokTakipElektronik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aykut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
